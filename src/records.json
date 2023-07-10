@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "account_number": 133001,
+    "linked_bank_account": 133001,
+    "status": "Open",
+    "bank_code": "SBI0045",
+    "bank_name": "SBI",
+    "available_balance": "RS. 11100",
+    "principle_ammount": "RS. 10000",
+    "interest_earned": "RS. 5000",
+    "monthly_deposite": "RS. 25000",
+    "interest_rate": "5.6%",
+    "tenure": "24 Months",
+    "maturity_ammount": "RS. 60000",
+    "tax_paid": "RS. 10000"
+  },
+  {
+    "id": 2,
+    "account_number": 134001,
+    "linked_bank_account": 133001,
+    "status": "Close",
+    "bank_code": "Baroda0302",
+    "bank_name": "Bank Of Baroda",
+    "available_balance": "RS. 0",
+    "principle_ammount": "RS. 20000",
+    "interest_earned": "RS. 4000",
+    "monthly_deposite": "RS. 25000",
+    "interest_rate": "9%",
+    "tenure": "32 Months",
+    "maturity_ammount": "RS. 20000",
+    "tax_paid": "RS. 3000"
+  },
+  {
+    "id": 3,
+    "account_number": 135006,
+    "linked_bank_account": 133006,
+    "status": "Open",
+    "bank_code": "HDFC089",
+    "bank_name": "HDFC",
+    "available_balance": "RS. 500000",
+    "principle_ammount": "RS. 15000",
+    "interest_earned": "RS. 7000",
+    "monthly_deposite": "RS. 15000",
+    "interest_rate": "10%",
+    "tenure": "18 Months",
+    "maturity_ammount": "RS. 20000",
+    "tax_paid": "RS. 9000"
+  }
+]
